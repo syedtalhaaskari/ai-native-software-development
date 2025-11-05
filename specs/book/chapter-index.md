@@ -5,8 +5,8 @@
 Reference this document when naming and organizing chapter files. Use the chapter number in directory names: `[chapter-number]-[chapter-name]/`
 
 **Implementation Status**:
-- ✅ **Implemented** (15 chapters): Chapters 1-11, 31-34 have content and are ready for review
-- 📋 **Planned** (41 chapters): Chapters 12-30, 35-56 are planned but not yet created
+- ✅ **Implemented** (15 chapters): Chapters 1-11, 30-33 have content and are ready for review
+- 📋 **Planned** (41 chapters): Chapters 12-29, 34-56 are planned but not yet created
 
 ---
 
@@ -76,16 +76,16 @@ Core language skills: production-quality Python
 
 ---
 
-## Part 5: Spec-Driven Development (Chapters 31-34)
+## Part 5: Spec-Driven Development (Chapters 30-33)
 
 Professional development workflow: specifications and planning
 
 | # | Chapter Title | File Name | Status |
 |---|---------------|-----------|--------|
-| 31 | Understanding Spec-Driven Development | `31-specification-driven-development-fundamentals/` | ✅ Implemented |
-| 32 | Spec-Kit Plus | `32-specifyplus-hands-on/` | ✅ Implemented |
-| 33 | Building Projects with Spec-Kit Plus | `33-real-world-spec-kit-workflows/` | ✅ Implemented |
-| 34 | The Tessl Vision: Spec-as-Source | `34-tessl-framework-and-integration/` | ✅ Implemented |
+| 30 | Understanding Spec-Driven Development | `30-specification-driven-development-fundamentals/` | ✅ Implemented |
+| 31 | Spec-Kit Plus Hands-On | `31-spec-kit-plus-hands-on/` | ✅ Implemented (redesign in progress) |
+| 32 | Building Projects with Spec-Kit Plus | `32-real-world-spec-kit-workflows/` | ✅ Implemented |
+| 33 | The Tessl Vision: Spec-as-Source | `33-tessl-framework-and-integration/` | ✅ Implemented |
 
 ---
 
@@ -200,7 +200,7 @@ This document provides chapter titles and topics. For exact file paths, naming c
 - Chapter 5: `book-source/docs/02-AI-Tool-Landscape/05-claude-code-features-and-workflows/`
 - Chapter 9: `book-source/docs/03-prompt-and-context-engineering/09-markdown-language-of-ai/`
 - Chapter 10: `book-source/docs/03-prompt-and-context-engineering/10-prompt-engineering-for-aidd/`
-- Chapter 31: `book-source/docs/05-Spec-Kit-Plus-Methodology/31-specification-driven-development-fundamentals/`
+- Chapter 30: `book-source/docs/05-Spec-Driven-Development/30-specification-driven-development-fundamentals/`
 - Chapter 13 (planned): `book-source/docs/04-Python-The-Language-of-AI-Agents/13-introduction-to-python/`
 - Chapter 35 (planned): `book-source/docs/06-AI-Native-Software-Development/35-introduction-ai-native-development/`
 - Chapter 56 (planned): `book-source/docs/13-Stateful-Agents-Dapr/56-durable-workflows-for-long-running-agent-tasks/`

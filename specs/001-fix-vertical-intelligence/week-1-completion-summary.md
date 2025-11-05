@@ -90,7 +90,7 @@ Successfully completed Week 1 of Phase 1, establishing a solid foundation for ve
    - Ch 8: `08-git-github-for-aidd/` → `08-git-and-github/`
    - Ch 10: `10-context-engineering-for-aidd/` → `10-context-engineering-for-ai-driven-development/`
    - Ch 30: `30-understanding-spec-driven-development/` → `30-specification-driven-development-fundamentals/`
-   - Ch 31: `31-spec-kit-plus/` → `31-specifyplus-hands-on/`
+   - Ch 31: `31-spec-kit-plus/` → `31-spec-kit-plus-hands-on/`
    - Ch 32: `32-building-projects-with-spec-kit-plus/` → `32-real-world-spec-kit-workflows/`
    - Ch 33: `33-tessl-vision-spec-as-source/` → `33-tessl-framework-and-integration/`
    - Ch 10 filename corrected

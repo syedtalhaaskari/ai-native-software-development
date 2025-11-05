@@ -25,7 +25,7 @@
 11. Chapter 10 status: 📋 Planned → ✅ Implemented
 12. Chapter 30 filename: `30-understanding-spec-driven-development/` → `30-specification-driven-development-fundamentals/`
 13. Chapter 30 status: 📋 Planned → ✅ Implemented
-14. Chapter 31 filename: `31-spec-kit-plus/` → `31-specifyplus-hands-on/`
+14. Chapter 31 filename: `31-spec-kit-plus/` → `31-spec-kit-plus-hands-on/`
 15. Chapter 31 status: 📋 Planned → ✅ Implemented
 16. Chapter 32 filename: `32-building-projects-with-spec-kit-plus/` → `32-real-world-spec-kit-workflows/`
 17. Chapter 32 status: 📋 Planned → ✅ Implemented
@@ -66,7 +66,7 @@
 - 09-prompt-engineering-for-aidd/
 - 10-context-engineering-for-ai-driven-development/
 - 30-specification-driven-development-fundamentals/
-- 31-specifyplus-hands-on/
+- 31-spec-kit-plus-hands-on/
 - 32-real-world-spec-kit-workflows/
 - 33-tessl-framework-and-integration/
 ```
@@ -90,7 +90,7 @@
 | 9 | `09-prompt-engineering-for-aidd/` | `09-prompt-engineering-for-aidd/` | ✅ Already correct |
 | 10 | `10-context-engineering-for-aidd/` | `10-context-engineering-for-ai-driven-development/` | ✅ **CORRECTED** |
 | 30 | `30-understanding-spec-driven-development/` | `30-specification-driven-development-fundamentals/` | ✅ **CORRECTED** |
-| 31 | `31-spec-kit-plus/` | `31-specifyplus-hands-on/` | ✅ **CORRECTED** |
+| 31 | `31-spec-kit-plus/` | `31-spec-kit-plus-hands-on/` | ✅ **CORRECTED** |
 | 32 | `32-building-projects-with-spec-kit-plus/` | `32-real-world-spec-kit-workflows/` | ✅ **CORRECTED** |
 | 33 | `33-tessl-vision-spec-as-source/` | `33-tessl-framework-and-integration/` | ✅ **CORRECTED** |
 

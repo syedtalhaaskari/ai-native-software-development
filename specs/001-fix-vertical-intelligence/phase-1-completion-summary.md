@@ -151,7 +151,7 @@
 12. `specs/001-fix-vertical-intelligence/validation/layer-chapter-index-validation.md`
 13. `specs/001-fix-vertical-intelligence/validation/layer-subagents-validation.md`
 14. `specs/001-fix-vertical-intelligence/validation/quick-subagent-check.md`
-15. `specs/001-fix-vertical-intelligence/validation/chapter-31-specifyplus-hands-on.md` (30KB)
+15. `specs/001-fix-vertical-intelligence/validation/chapter-31-spec-kit-plus-hands-on.md` (30KB)
 16. `specs/001-fix-vertical-intelligence/VALIDATION-REPORT-CHAPTER-32.md` (25KB)
 
 ### Task Tracking & Summaries (3 files)
@@ -449,7 +449,7 @@ A  specs/001-fix-vertical-intelligence/validation/layer-output-styles-validation
 A  specs/001-fix-vertical-intelligence/validation/layer-chapter-index-validation.md
 A  specs/001-fix-vertical-intelligence/validation/layer-subagents-validation.md
 A  specs/001-fix-vertical-intelligence/validation/quick-subagent-check.md
-A  specs/001-fix-vertical-intelligence/validation/chapter-31-specifyplus-hands-on.md
+A  specs/001-fix-vertical-intelligence/validation/chapter-31-spec-kit-plus-hands-on.md
 A  specs/001-fix-vertical-intelligence/week-1-completion-summary.md
 A  specs/001-fix-vertical-intelligence/ESSENTIAL-TASKS-FOR-OLD-CHAPTERS.md
 A  specs/001-fix-vertical-intelligence/phase-1-completion-summary.md
@@ -509,7 +509,7 @@ A  CHAPTER-32-VALIDATION-EXECUTIVE-SUMMARY.md
 │           ├── layer-chapter-index-validation.md
 │           ├── layer-subagents-validation.md
 │           ├── quick-subagent-check.md
-│           └── chapter-31-specifyplus-hands-on.md
+│           └── chapter-31-spec-kit-plus-hands-on.md
 ├── book-source/docs/
 │   └── [14 existing chapters - need redesign]
 └── CLAUDE.md (Phase 0.5: Evals Definition added)

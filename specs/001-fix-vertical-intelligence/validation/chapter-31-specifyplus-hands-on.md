@@ -1,6 +1,6 @@
 # Validation Report: Chapter 31 (Spec-Kit Plus Hands-On)
 
-**File:** `book-source/docs/05-Spec-Kit-Plus-Methodology/31-specifyplus-hands-on/`
+**File:** `book-source/docs/05-Spec-Kit-Plus-Methodology/31-spec-kit-plus-hands-on/`
 **Chapter Type:** Technical/Hybrid (mix of narrative + hands-on workflow lessons)
 **Date:** 2025-11-04
 **Constitution Version:** 3.0.1 (Evals-First, Specification-First, Validation-First)
@@ -116,7 +116,7 @@ All code examples reference SpecifyPlus commands correctly and align with consti
      ```
 
 2. **README Naming Convention Issue**: Chapter README uses `README.md` (uppercase) but violates naming convention
-   - **Location**: `book-source/docs/05-Spec-Kit-Plus-Methodology/31-specifyplus-hands-on/README.md`
+   - **Location**: `book-source/docs/05-Spec-Kit-Plus-Methodology/31-spec-kit-plus-hands-on/README.md`
    - **Context**: Output-Styles specifies:
      - Part-level: `README.md` (UPPERCASE) ✓
      - Chapter-level: `readme.md` (LOWERCASE) ✗ (this file is UPPERCASE)

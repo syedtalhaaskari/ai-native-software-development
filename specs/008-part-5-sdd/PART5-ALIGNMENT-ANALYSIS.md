@@ -163,7 +163,7 @@ book-source/docs/05-Spec-Kit-Plus-Methodology/
 │   ├── 01-your-companion-built-something-terrible.md
 │   ├── ... (5 lessons)
 │
-├── 31-specifyplus-hands-on/  [WAS: 26]
+├── 31-spec-kit-plus-hands-on/  [WAS: 26]
 │   ├── ... (7 lessons + 2 mini-projects)
 │
 └── 32-real-world-spec-kit-workflows/  [WAS: 27]
@@ -225,7 +225,7 @@ book-source/docs/05-Spec-Kit-Plus-Methodology/
 ### Step 4: Rename Chapter 26 → Chapter 31 (SpecifyPlus Hands-On)
 
 **Current**: `26-specifyplus-hands-on/`
-**Rename to**: `31-specifyplus-hands-on/`
+**Rename to**: `31-spec-kit-plus-hands-on/`
 
 **Update**: Cross-references only; content unchanged
 
@@ -337,7 +337,7 @@ Chapter 32: "Real-World Spec-Kit Workflows" (PROFESSIONAL)
 
 ### Files to Rename:
 - `25-specification-driven-development-fundamentals/` → `30-specification-driven-development-hands-on/`
-- `26-specifyplus-hands-on/` → `31-specifyplus-hands-on/`
+- `26-specifyplus-hands-on/` → `31-spec-kit-plus-hands-on/`
 - `27-real-world-spec-kit-workflows/` → `32-real-world-spec-kit-workflows/`
 
 ### Files to Update (Cross-references):

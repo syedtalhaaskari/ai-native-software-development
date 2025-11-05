@@ -102,7 +102,7 @@
 
 ### Phase 4: Implementation (Lesson Content) ✅
 
-**Location**: `/book-source/docs/05-Spec-Kit-Plus-Methodology/31-specifyplus-hands-on/`
+**Location**: `/book-source/docs/05-Spec-Kit-Plus-Methodology/31-spec-kit-plus-hands-on/`
 
 **Files Created**:
 
@@ -294,7 +294,7 @@
 ├── tasks.md                             (47 tasks)
 └── chapter-completion-checklist.md      (Validation tracking)
 
-/book-source/docs/05-Spec-Kit-Plus-Methodology/31-specifyplus-hands-on/
+/book-source/docs/05-Spec-Kit-Plus-Methodology/31-spec-kit-plus-hands-on/
 ├── README.md                            (Chapter overview)
 ├── 01-smart-acceptance-criteria.md      (15 KB, 2h, A2)
 ├── 02-specifyplus-structure.md          (16 KB, 1.5h, A2)

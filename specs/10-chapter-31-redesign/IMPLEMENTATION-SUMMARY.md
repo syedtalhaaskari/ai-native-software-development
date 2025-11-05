@@ -298,7 +298,7 @@ specs/010-chapter-31-redesign/
 └── IMPLEMENTATION-SUMMARY.md      [NEW - This file]
 
 Lesson Content (to be created):
-docs/05-Spec-Kit-Plus-Methodology/31-specifyplus-hands-on/
+docs/05-Spec-Kit-Plus-Methodology/31-spec-kit-plus-hands-on/
 ├── README.md                               [Chapter overview]
 ├── 01-introduction-and-chapter-30-bridge.md
 ├── 02-constitution-phase.md

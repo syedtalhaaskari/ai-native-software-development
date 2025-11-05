@@ -79,7 +79,7 @@
 - Report correctly validated against constitution v3.0.1 Core Philosophy #1 (Evals-First)
 - Report identified issues matching Week 1 fixes (closure policy, metadata)
 
-**Detailed Report**: `specs/001-fix-vertical-intelligence/validation/chapter-31-specifyplus-hands-on.md` (30KB)
+**Detailed Report**: `specs/001-fix-vertical-intelligence/validation/chapter-31-spec-kit-plus-hands-on.md` (30KB)
 
 ---
 
@@ -276,13 +276,13 @@ Both chapters exhibit similar issues traceable to old subagent misalignment:
 ### File Locations
 
 **Validation Reports**:
-- `specs/001-fix-vertical-intelligence/validation/chapter-31-specifyplus-hands-on.md` (30KB)
+- `specs/001-fix-vertical-intelligence/validation/chapter-31-spec-kit-plus-hands-on.md` (30KB)
 - `VALIDATION-REPORT-CHAPTER-32.md` (25KB)
 - `CHAPTER-32-QUICK-CHECK-FINDINGS.md` (8.6KB)
 - `CHAPTER-32-VALIDATION-EXECUTIVE-SUMMARY.md` (quick ref)
 
 **Chapters Validated**:
-- `book-source/docs/05-Spec-Kit-Plus-Methodology/31-specifyplus-hands-on/`
+- `book-source/docs/05-Spec-Kit-Plus-Methodology/31-spec-kit-plus-hands-on/`
 - `book-source/docs/05-Spec-Kit-Plus-Methodology/32-real-world-spec-kit-workflows/`
 
 **Referenced Documents**:
@@ -296,7 +296,7 @@ Both chapters exhibit similar issues traceable to old subagent misalignment:
 
 ```bash
 # Chapters validated
-$ ls -la book-source/docs/05-Spec-Kit-Plus-Methodology/31-specifyplus-hands-on/
+$ ls -la book-source/docs/05-Spec-Kit-Plus-Methodology/31-spec-kit-plus-hands-on/
 README.md
 01-specifyplus-structure.md
 02-complete-constitution.md
