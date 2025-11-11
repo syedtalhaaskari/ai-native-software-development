@@ -57,6 +57,7 @@ Please provide a clear, concise summary of this content in exactly ${maxSentence
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
+          "Access-Control-Allow-Origin": "*"
         },
         body: JSON.stringify({
           contents: [
