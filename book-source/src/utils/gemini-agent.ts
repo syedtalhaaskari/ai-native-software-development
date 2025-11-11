@@ -52,7 +52,7 @@ Please provide a clear, concise summary of this content in exactly ${maxSentence
 
     // Call Gemini REST API directly (CORS is allowed for API key authentication)
     const response = await fetch(
-      `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent?key=${key}`,
+      `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${key}`,
       {
         method: 'POST',
         headers: {
