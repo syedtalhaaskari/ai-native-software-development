@@ -1,10 +1,10 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "buildCommand": "cd book-source && pnpm install && pnpm build",
-  "outputDirectory": "book-source/build",
-  "installCommand": "cd book-source && pnpm install",
+  "buildCommand": "pnpm install && pnpm build",
+  "outputDirectory": "build",
+  "installCommand": "pnpm install",
   "framework": "docusaurus",
-  "devCommand": "cd book-source && pnpm start",
+  "devCommand": "pnpm start",
   "cleanUrls": true,
   "trailingSlash": false
 }
